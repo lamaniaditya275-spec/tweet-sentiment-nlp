@@ -54,5 +54,3 @@ The model successfully classifies tweet sentiments using NLP embeddings and mach
 Aditya Lamani  
 B.Tech CSE Student | Aspiring AI/ML Engineer
 --
-
-If you want, I can also show you 3 small GitHub tricks that make your profile look like a 3rd-year AI engineer instead of a 1st-year student.
